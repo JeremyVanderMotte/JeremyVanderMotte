@@ -1,13 +1,10 @@
-👋 Hi, I’m @JeremyVanderMotte
 
+### :man_technologist: About me :
 
-About me :
+I'm a 26 years old learning developer at 19 school in belgium. 🇧🇪
 
-
-[![Jeremy Vander MOtte's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeremyVanderMotte)](https://github.com/JeremyVanderMotte/github-readme-stats)
-
-
-Languages :
+---
+### 💻 Programming Languages :
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
@@ -15,7 +12,16 @@ Languages :
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp; 
     <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp; 
 </div>
-<!---
-JeremyVanderMotte/JeremyVanderMotte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+---
+
+### 🗣️ Languages :
+  - <img src="https://www.svgrepo.com/show/248625/france.svg" title="Français" alt="Français" width="40" height="40"/>&nbsp; ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100)
+   - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Emojione_1F1EC-1F1E7.svg/1024px-Emojione_1F1EC-1F1E7.svg.png" title="Anglais" alt="C" width="40" height="40"/>&nbsp; ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/60)
+ 
+---
+
+### :fire: My Stats :
+
+
+[![Jeremy Vander Motte's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeremyVanderMotte&hide=prs,issues,contribs)](https://github.com/JeremyVanderMotte/github-readme-stats)
