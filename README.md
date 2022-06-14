@@ -24,4 +24,6 @@ I'm a 26 years old learning developer at 19 school in belgium (login : jvander-)
 ### :fire: My Stats :
 
 
-[![Jeremy Vander Motte's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeremyVanderMotte&hide=prs,issues,contribs)](https://github.com/JeremyVanderMotte/github-readme-stats)
+[![Jeremy Vander Motte's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeremyVanderMotte&theme=nightowl&hide=prs,issues,contribs)](https://github.com/JeremyVanderMotte/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeremyVanderMotte&theme=nightowl&layout=compact)](https://github.com/JeremyVanderMotte/github-readme-stats)
