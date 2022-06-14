@@ -3,6 +3,10 @@
 
 About me :
 
+
+[![Jeremy Vander MOtte's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeremyVanderMotte)](https://github.com/JeremyVanderMotte/github-readme-stats)
+
+
 Languages :
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
