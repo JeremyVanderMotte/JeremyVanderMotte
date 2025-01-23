@@ -1,8 +1,9 @@
 
 ### :man_technologist: About me :
 
-I'm a 27 years old learning developer.  
+I'm a 28 years old developer.  
 I'm a member of 19 school in belgium (login : jvander-). 🇧🇪
+Now working for a media company.
 
 
 ---
